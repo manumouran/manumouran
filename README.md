@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manumouran
-- 👀 I’m interested in leraning more everyday.
+- 👀 I’m interested in learning more everyday.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 💞️ I’m looking to collaborate with a team willing to show me the world of programming.
 - 📫 How to reach me: email me in manumouran@icloud.com
