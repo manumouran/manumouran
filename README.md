@@ -13,7 +13,7 @@
 ```python
 def main():
   name = "Manoella Moura",
-  university = "Fatec - São José dos Campos",
+  university = "UNIP - São José dos Campos",
   location = "São José dos Campos, São Paulo, Brazil"
 ```
 📫 Connect with me:
